@@ -3,11 +3,9 @@ from trame.widgets import html
 from trame.ui.html import DivLayout
 
 # Trame setup -----------------------------------------------------------------
-
 server = get_server()
 
 # ViewModel -------------------------------------------------------------------
-
 state = server.state
 
 # Read/Write
@@ -39,14 +37,11 @@ def trim_log(log, **_):
 
 
 # Model ----------------------------------------------------------------------
-
-
 def reset_a():
     state.a = 10
 
 
 # View ------------------------------------------------------------------------
-
 with DivLayout(server):
     html.H1("Events and State")
 
@@ -73,5 +68,4 @@ with DivLayout(server):
     )
 
 # Start Server ----------------------------------------------------------------
-
 server.start()

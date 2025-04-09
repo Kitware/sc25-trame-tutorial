@@ -33,7 +33,7 @@ with DivLayout(server, template_name="view_b"):
         min=0,
         max=50,
         step=2,
-        v_model=("b", 2),  # Set a default value of 0 to variable "a"
+        v_model=("b", 2),  # Set a default value of 0 to variable "b"
     )
 
 # Start Server ----------------------------------------------------------------
