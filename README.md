@@ -26,7 +26,8 @@ __For Intermediate Attendees__
 - Explore multiple rendering modalities and advanced 3D interaction patterns (e.g., linked views, LOD control, client/server rendering).
 - Customize Vuetify components and extend the UI with advanced interactions.
 - Learn to structure more complex applications with custom layouts and multiple views.
-- For Advanced Attendees
+
+__For Advanced Attendees__
 - Integrate HPC or AI data pipelines and enable dynamic data loading or streaming.
 - Optimize performance for large datasets and explore strategies for scalability.
 - Deploy Trame applications to the desktop, Jupyter, and cloud.
