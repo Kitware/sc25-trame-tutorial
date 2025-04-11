@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 .venv
 .ruff_cache
+.pv-venv
+cache
+node_modules
