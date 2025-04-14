@@ -1,0 +1,15 @@
+# Matplotlib
+trame-matplotlib
+matplotlib<3.10
+numpy
+
+# Plotly
+trame-plotly
+pandas
+plotly
+scikit-learn
+
+# Altair
+altair
+vega_datasets
+trame-vega
