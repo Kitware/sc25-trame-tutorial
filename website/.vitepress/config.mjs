@@ -2,8 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Trame Tutorial",
-  description: "Tutorial for SC25 on trame",
+  base: "/sc25-trame-tutorial",
+  title: "Trame tutorial",
+  description: "Trame tutorial for SuperComputing 2025",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
