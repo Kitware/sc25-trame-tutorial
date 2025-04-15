@@ -10,13 +10,13 @@ hero:
   actions:
     - theme: brand
       text: Python
-      link: /markdown-examples
+      link: /python/
     - theme: alt
       text: Jupyter
-      link: /api-examples
+      link: /jupyter/
     - theme: alt
       text: Docker
-      link: /api-examples
+      link: /docker/
 
 features:
   - title: Python virtual environments
@@ -25,18 +25,21 @@ features:
       alt: Python
       width: 54
     details: This tutorial can be done using local Python virtual environments for demonstrations and exercises. This track is prefered as it allow you to use your common dev tools and IDE when exploring trame.
+    link: /python/
   - title: Jupyter Lab
     icon:
       src: https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg
       alt: Jupyter Lab
       width: 45
     details: This tutorial can be done using a local setup of Jupyter Lab. A special track with dedicated notebook has beed created and available to ease demonstrations and exercises.
+    link: /jupyter/
   - title: Docker
     icon:
       src: https://cdn.worldvectorlogo.com/logos/docker.svg
       alt: Docker
       width: 54
     details: This tutorial provides a docker image that can be used as a runtime for executing most of the demonstrations and exercises. That track is designed to overcome system incompatibility that prevent the two previous track to be used.
+    link: /docker/
   - title: Peacock 2.0 (INL)
     icon:
       src: /usecases.svg

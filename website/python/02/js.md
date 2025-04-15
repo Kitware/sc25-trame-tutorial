@@ -1,5 +1,8 @@
 # JavaScript expressions
 
+While JavaScript is very similar to Python, they are still different.
+This page aims to provide some usage examples of what you could be using in your trame/vue template.
+
 ## String templating
 
 ::: code-group
