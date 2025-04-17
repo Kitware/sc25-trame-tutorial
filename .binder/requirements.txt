@@ -2,3 +2,5 @@ trame
 trame-vtk
 trame-vuetify
 trame-vtklocal
+
+jupyter-server-proxy
