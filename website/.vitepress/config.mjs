@@ -11,7 +11,6 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Python', link: '/python' },
       { text: 'Jupyter', link: '/jupyter' },
-      { text: 'Docker', link: '/docker' },
       { text: 'Use cases', link: '/usecases' },
     ],
 
@@ -83,15 +82,6 @@ export default defineConfig({
           items: [
             { text: 'Introduction', link: '/jupyter/' },
             { text: 'Setup', link: '/jupyter/setup' },
-          ]
-        },
-      ],
-      "/docker/": [
-        {
-          text: 'Getting Started',
-          items: [
-            { text: 'Introduction', link: '/docker/' },
-            { text: 'Setup', link: '/docker/setup' },
           ]
         },
       ],

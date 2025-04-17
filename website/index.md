@@ -15,8 +15,8 @@ hero:
       text: Jupyter
       link: /jupyter/
     - theme: alt
-      text: Docker
-      link: /docker/
+      text: Binder
+      link: https://mybinder.org/v2/gh/Kitware/sc25-trame-tutorial/main?labpath=jupyter
 
 features:
   - title: Python virtual environments
@@ -33,13 +33,13 @@ features:
       width: 45
     details: This tutorial can be done using a local setup of Jupyter Lab. A special track with dedicated notebook has beed created and available to ease demonstrations and exercises.
     link: /jupyter/
-  - title: Docker
+  - title: Binder
     icon:
-      src: https://cdn.worldvectorlogo.com/logos/docker.svg
-      alt: Docker
-      width: 54
-    details: This tutorial provides a docker image that can be used as a runtime for executing most of the demonstrations and exercises. That track is designed to overcome system incompatibility that prevent the two previous track to be used.
-    link: /docker/
+      src: https://mybinder.readthedocs.io/en/latest/_static/favicon.png
+      alt: Binder
+      width: 48
+    details: This tutorial can be followed online by using Binder for most of the demonstrations and exercises. That track is designed to overcome system incompatibility that prevent the two previous track to be used.
+    link: https://mybinder.org/v2/gh/Kitware/sc25-trame-tutorial/main?labpath=jupyter
   - title: Peacock 2.0 (INL)
     icon:
       src: /usecases.svg
