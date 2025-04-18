@@ -2,7 +2,7 @@
 
 <div style="width: 50%; margin: 0 auto;">
 
-![Fundamentals](./fundamentals.jpg)
+![Fundamentals](/python/01/fundamentals.jpg)
 
 </div>
 

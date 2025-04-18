@@ -10,4 +10,4 @@ Under the hood, Vue compiles the templates into optimized JavaScript code.
 
 [Vue.js template documentation](https://vuejs.org/guide/essentials/template-syntax.html)
 
-![](./template.svg)
+![](/python/02/template.svg)

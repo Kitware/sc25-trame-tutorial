@@ -8,4 +8,4 @@ Get started with Vuetify, the world’s most popular Vue.js framework for buildi
 
 First learn how to use the [documentation](https://vuetifyjs.com/en/components/cards/#usage) and how you can figure out the property to use to make your element pretty.
 
-![](./vuetify-component.svg)
+![](/python/03/vuetify-component.svg)

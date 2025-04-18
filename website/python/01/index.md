@@ -6,7 +6,7 @@ Trame aims to be __simple__, __powerful__ and __ubiquitous__.
 - __Powerful__ because Python has many libraries for scientific data visualization and AI (numpy, plotly, matplolib, VTK, pytorch...).
 - __Ubiquitous__ because the same code can runs on laptops, desktops, clusters, and the cloud while displaying everywhere (phone, tablet, laptop, workstation).
 
-![trame](./trame.png)
+![trame](/python/01/trame.png)
 
 ## What it is not?
 

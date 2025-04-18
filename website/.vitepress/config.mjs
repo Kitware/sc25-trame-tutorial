@@ -80,8 +80,59 @@ export default defineConfig({
         {
           text: 'Getting Started',
           items: [
-            { text: 'Introduction', link: '/jupyter/' },
-            { text: 'Setup', link: '/jupyter/setup' },
+            { text: 'Setup', link: '/jupyter/' },
+          ]
+        },
+        {
+          text: 'Trame fundamentals',
+          items: [
+            { text: 'Introduction', link: '/jupyter/01/' },
+            { text: 'MVVM Pattern', link: '/jupyter/01/mvvm' },
+            { text: '🏋️‍♂️ Hands on', link: '/jupyter/01/run' },
+            { text: 'Fundamentals', link: '/jupyter/01/fundamentals' },
+            { text: '🏋️‍♂️ Hands on', link: '/jupyter/01/run2' },
+            { text: 'Cheat sheets', link: '/jupyter/01/cheat-sheets' },
+          ]
+        },
+        {
+          text: 'Dynamic web interface',
+          items: [
+            { text: 'Introduction', link: '/jupyter/02/' },
+            { text: 'Text interpolation', link: '/jupyter/02/text' },
+            { text: 'Raw HTML', link: '/jupyter/02/raw' },
+            { text: 'Attribute binding', link: '/jupyter/02/attributes' },
+            { text: 'Directives', link: '/jupyter/02/directives' },
+            { text: 'Event handling', link: '/jupyter/02/events' },
+            { text: 'JavaScript expressions', link: '/jupyter/02/js' },
+            { text: '🏋️‍♂️ Hands on', link: '/jupyter/02/run' },
+          ]
+        },
+        {
+          text: 'Vuetify for beautiful UI',
+          items: [
+            { text: 'Introduction', link: '/jupyter/03/' },
+            { text: '🏋️‍♂️ Playground', link: '/jupyter/03/playground' },
+            { text: '🏋️‍♂️ trame convertion', link: '/jupyter/03/playground-to-trame' },
+            { text: '🏋️‍♂️ Many cards', link: '/jupyter/03/dynamic-cards' },
+            { text: '🏋️‍♂️ Animated content', link: '/jupyter/03/animation' },
+          ]
+        },
+        {
+          text: '3D Visualization',
+          items: [
+            { text: 'Introduction', link: '/jupyter/04/' },
+          ]
+        },
+        {
+          text: '2D Charts',
+          items: [
+            { text: 'Introduction', link: '/jupyter/05/' },
+          ]
+        },
+        {
+          text: 'Interactive data processing',
+          items: [
+            { text: 'Introduction', link: '/jupyter/06/' },
           ]
         },
       ],

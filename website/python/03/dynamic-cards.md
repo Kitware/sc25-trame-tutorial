@@ -2,7 +2,7 @@
 
 Let's expand the code we have to add a slider in order to drive the number of card display.
 
-![](./dynamic-cards.png)
+![](/python/03/dynamic-cards.png)
 
 
 ## Run the code

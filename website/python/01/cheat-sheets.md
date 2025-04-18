@@ -2,8 +2,8 @@
 
 ## State handling
 
-![](./state.jpg)
+![](/python/01/state.jpg)
 
 ## Event handling
 
-![](./events.jpg)
+![](/python/01/events.jpg)

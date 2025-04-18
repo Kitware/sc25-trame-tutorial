@@ -40,5 +40,5 @@ http://localhost:8080/?ui=view_b
 ```
 
 
-![App](./multi-view.jpg)
+![App](/python/01/multi-view.jpg)
 

@@ -30,11 +30,11 @@ python 01-static-card-edit.py
 
 ## Result
 
-![App](./incomplete-card.png)
+![App](/python/03/incomplete-card.png)
 
 ## Hands on exercise
 
 Edit the file using the code from the playground so it can look like that.
 
 
-![App](./complete-card.png)
+![App](/python/03/complete-card.png)

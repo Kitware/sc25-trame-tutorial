@@ -51,7 +51,7 @@ python 01-state-events.py
 
 ## Result 
 
-![App](./app.png)
+![App](/python/01/app.png)
 
 
 

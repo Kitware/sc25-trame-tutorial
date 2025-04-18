@@ -2,7 +2,6 @@
 
 ## Option 1 (repo)
 
-
 ### Run example
 
 ```bash
@@ -25,5 +24,5 @@ python 01-directives.py
 
 ## Result
 
-![App](./trame-dyna-ui-app.png)
+![App](/python/02/trame-dyna-ui-app.png)
 
