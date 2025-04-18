@@ -19,7 +19,7 @@ export default defineConfig({
         {
           text: 'Getting Started',
           items: [
-            { text: 'Setup', link: '/python/' },
+            { text: 'Setup Python', link: '/python/' },
           ]
         },
         {
@@ -80,7 +80,7 @@ export default defineConfig({
         {
           text: 'Getting Started',
           items: [
-            { text: 'Setup', link: '/jupyter/' },
+            { text: 'Setup Jupyter', link: '/jupyter/' },
           ]
         },
         {
