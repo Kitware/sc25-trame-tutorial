@@ -1,6 +1,27 @@
+# Core trame
 trame
-trame-vtk
 trame-vuetify
-trame-vtklocal
 
+# 3D viz
+trame-vtk
+trame-vtklocal
+vtk
+
+# Matplotlib
+trame-matplotlib
+matplotlib<3.10
+numpy
+
+# Plotly
+trame-plotly
+pandas
+plotly
+scikit-learn
+
+# Altair
+altair
+vega_datasets
+trame-vega
+
+# Proxy forwarding
 jupyter-server-proxy
