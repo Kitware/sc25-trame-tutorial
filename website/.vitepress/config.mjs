@@ -5,6 +5,10 @@ export default defineConfig({
   base: "/sc25-trame-tutorial",
   title: "Trame tutorial",
   description: "Trame tutorial for SuperComputing 2025",
+  head: [
+    ['link', { rel: "apple-touch-icon", sizes: "196x196", href: "/sc25-trame-tutorial/logos/favicon-196x196.webp"}],
+    ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "/sc25-trame-tutorial/logos/favicon-32x32.webp"}],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -60,6 +64,11 @@ export default defineConfig({
           text: '3D Visualization',
           items: [
             { text: 'Introduction', link: '/python/04/' },
+            { text: '🏋️‍♂️ Run VTK example', link: '/python/04/run-vtk' },
+            { text: '🏋️‍♂️ Convert to trame', link: '/python/04/run-trame' },
+            { text: '🏋️‍♂️ Remote/Local rendering', link: '/python/04/run-all' },
+            { text: '🏋️‍♂️ ParaView', link: '/python/04/run-pv' },
+            { text: '🏋️‍♂️ MPI ParaView', link: '/python/04/run-pv-mpi' },
           ]
         },
         {
@@ -140,10 +149,10 @@ export default defineConfig({
         { text: 'Introduction', link: '/usecases/' },
         { text: 'Peacock 2.0', link: '/usecases/peacock' },
         { text: 'Blast code', link: '/usecases/blast' },
-        { text: 'ArrowFlow', link: '/usecases/arrowflow' },
+        { text: 'M-Star CFD Solver', link: '/usecases/mstar' },
         { text: 'EPIC', link: '/usecases/epic' },
         { text: 'DAIMSAL', link: '/usecases/daimsal' },
-        { text: '(XAI + NR).TK', link: '/usecases/xaitk-nrtk' },
+        { text: 'NRTK & XAITK', link: '/usecases/nrtk-xaitk' },
       ]
     },
   }

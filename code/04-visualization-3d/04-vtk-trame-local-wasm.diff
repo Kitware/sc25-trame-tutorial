@@ -1,0 +1,12 @@
+6c6
+< from trame.widgets import vuetify3 as v3, vtk as vtkw
+---
+> from trame.widgets import vuetify3 as v3, vtklocal
+127,130c127,128
+<                     with vtkw.VtkRemoteView(
+<                         self.render_window, interactive_ratio=1
+<                     ) as view:
+<                         self.ctrl.view_update = view.update
+---
+>                     with vtklocal.LocalView(self.render_window, throttle_rate=20) as view:
+>                         self.ctrl.view_update = view.update_throttle

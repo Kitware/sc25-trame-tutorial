@@ -50,6 +50,7 @@ def setup_vtk():
     actor.GetProperty().SetSpecularPower(20)
 
     renderWindow = vtkRenderWindow()
+    renderWindow.SetOffScreenRendering(1)
     renderWindow.AddRenderer(renderer)
 
     renderer.AddActor(actor)

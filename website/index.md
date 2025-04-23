@@ -54,13 +54,13 @@ features:
       width: 54
     details: The Beam, Plasma & Accelerator Simulation Toolkit (BLAST) is a comprehensive suite of simulation codes for modeling particle accelerators, beams, and plasmas. This talk presents our experience leveraging trame to develop interactive dashboards for the BLAST codes WarpX and ImpactX. We will present how trame is enabling more intuitive and efficient simulation workflows, as well as the integration and control of digital twin infrastructures that combine simulations, AI/ML models, and experimental data.
     link: /usecases/blast
-  - title: ArrowFlow (M-Star)
+  - title: Skip the process bloat and run your CFD anywhere with M-Star & trame
     icon:
       src: /usecases.svg
       alt: ArrowFlow
       width: 54
-    details: Near realtime CFD simulation with template based solution exploration.
-    link: /usecases/arrowflow
+    details: M-Star CFD is a GPU-based fluid simulation tool designed to accelerate model development for industrial systems. When trame is coupled to M-Star using ArrowFlow, those capabilities become accessible to a larger set of users. In this talk we show how organizations are able to cut through common barriers to put the predictive abilities of CFD in more peoples’ hands.
+    link: /usecases/mstar
   - title: EPIC (LANL)
     icon:
       src: /usecases.svg
@@ -75,13 +75,13 @@ features:
       width: 54
     details: something cool...
     link: /usecases/daimsal
-  - title: (XAI+NR).TK
+  - title: Explaining model robustness combining saliency maps and natural robustness testing using XAITK and NRTK
     icon:
       src: /usecases.svg
-      alt: XAITK + NRTK
+      alt: NRTK and XAITK
       width: 54
-    details: Explainable AI and Natural robustness analysis for AI models.
-    link: /usecases/xaitk-nrtk
+    details: AI is everywhere, but how much could we trust it? In this talk we'll go over the concerns of DoD and how Kitware is addressing some of those concerns with two Open Source projects. First we'll cover the Natural Robustness Toolkit (NRTK) and then the Explainable AI Toolkit (XAITK). Finally we'll explain how trame is helping those toolkits with its interactive data exploration approach.
+    link: /usecases/nrtk-xaitk
 ---
 
 ## Content description

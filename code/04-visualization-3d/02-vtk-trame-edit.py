@@ -20,6 +20,7 @@ def setup_vtk():
     renderer = vtkRenderer()
 
     renderWindow = vtkRenderWindow()
+    renderWindow.SetOffScreenRendering(1)
     renderWindow.AddRenderer(renderer)
 
     interactor = vtkRenderWindowInteractor()

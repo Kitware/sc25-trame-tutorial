@@ -15,3 +15,5 @@ python ./code/03-vuetify/04-animation.py
 ::: code-group
 
 <<< ../../../code/03-vuetify/04-animation.py [04-animation.py] 
+
+::: 
