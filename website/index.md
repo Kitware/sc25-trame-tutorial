@@ -75,7 +75,7 @@ features:
       width: 54
     details: something cool...
     link: /usecases/daimsal
-  - title: Explaining model robustness combining saliency maps and natural robustness testing using XAITK and NRTK
+  - title: Natural Robustness Testing and Model Explainability for AI Test and Evaluation
     icon:
       src: /usecases.svg
       alt: NRTK and XAITK

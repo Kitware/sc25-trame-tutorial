@@ -1,4 +1,4 @@
-# Explaining model robustness combining saliency maps and natural robustness testing using XAITK and NRTK
+# Natural Robustness Testing and Model Explainability for AI Test and Evaluation
 
 AI is everywhere, but how much could we trust it? In this talk we'll go over the concerns of DoD and how Kitware is addressing some of those concerns with two Open Source projects. First we'll cover the Natural Robustness Toolkit (NRTK) and then the Explainable AI Toolkit (XAITK). Finally we'll explain how trame is helping those toolkits with its interactive data exploration approach.
 
