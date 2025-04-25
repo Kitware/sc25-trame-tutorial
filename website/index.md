@@ -81,12 +81,12 @@ features:
       width: 54
     details: We present a system for real-time control and visualization of scientific simulations using Trame, enabling seamless interaction between users and running simulations. Through an intuitive web interface, users can steer simulation parameters during execution and immediately observe the effects via in situ visualization. This bidirectional communication model supports dynamic exploration and lays the foundation for responsive, interactive digital twins. By integrating simulation control and visualization in a unified workflow, we enable faster insight generation and more adaptive scientific experimentation.
     link: /usecases/anl
-  - title: Using ParaView for genomic visualization at scale
+  - title: "4D Genome Visualization: Prototype to Web Application with Paraview and trame"
     icon:
       src: /usecases.svg
       alt: EPIC
       width: 54
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    details: Complex datasets often require a mix of novel software development and visualization design -- in collaboration with domain scientists -- to achieve truly useful visualizations. Scientists and vis experts need to work with data and try things out in order to design effective tools. How can we make the most of the time we have with scientists to develop truly useful visualizations? In this talk, we will discuss an example of using ParaView and Trame to effectively and efficiently work with domain scientists to prototype visualizations for complex data artifacts, filter and fuse data for visualization, and develop a web-based end user application.
     link: /usecases/lanl
   - title: Natural Robustness Testing and Model Explainability for AI Test and Evaluation
     icon:
