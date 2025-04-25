@@ -6,14 +6,14 @@ hero:
   name: "SC25 Trame Tutorial"
   text: "HPC-Enabled Web, Jupyter, and Desktop"
   tagline: "Creation of Bespoke Scientific Visualization Applications for Simulation, Experiment, and AI Data"
-  image:
-    src: /sc25-schedule.png
-    alt: Schedule
 
   actions:
     - theme: brand
       text: Trame homepage
       link: https://kitware.github.io/trame/
+    - theme: alt
+      text: Slides
+      link: https://raw.githubusercontent.com/Kitware/sc25-trame-tutorial/refs/heads/main/slide-sample.pdf
     - theme: alt
       text: Python
       link: /python/
