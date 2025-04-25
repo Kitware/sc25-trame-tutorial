@@ -61,12 +61,12 @@ features:
       width: 54
     details: AI is everywhere, but how much could we trust it? In this talk we'll go over the concerns of DoD and how Kitware is addressing some of those concerns with two Open Source projects. First we'll cover the Natural Robustness Toolkit (NRTK) and then the Explainable AI Toolkit (XAITK). Finally we'll explain how trame is helping those toolkits with its interactive data exploration approach.
     link: /usecases/nrtk-xaitk
-  # - title: Ubiquitous simulation with MOOSE and Peacock 2.0 (INL)
+  # - title: Evolving Peacock into a more robust interface for MOOSE modeling and simulation (INL)
   #   icon:
   #     src: /usecases.svg
   #     alt: Peacock
   #     width: 54
-  #   # details: Trame Peacock provides a refresh takes on input deck editor for MOOSE simulations.
+  #   # details: MOOSE facilitates the tight or loose coupling of multiple physical phenomena, essential to reactor simulation. Nuclear reactors involve several physical phenomena provided by NEAMS codes that are coupled and correlated with each other through MOOSE. We will present the trame-based evolution of Peacock and how it has transformed Peacock into a more capable interface for MOOSE modeling and simulation.
   #   link: /usecases/peacock
   
   # - title: Using ParaView for genomic visualization at scale (LANL)
