@@ -13,6 +13,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Schedule', link: '/schedule' },
       { text: 'Python', link: '/python' },
       { text: 'Jupyter', link: '/jupyter' },
       { text: 'Use cases', link: '/usecases' },
@@ -147,12 +148,12 @@ export default defineConfig({
       ],
       "/usecases/": [
         { text: 'Introduction', link: '/usecases/' },
-        { text: 'Peacock 2.0', link: '/usecases/peacock' },
-        { text: 'Blast code', link: '/usecases/blast' },
+        { text: 'Peacock 2.0', link: '/usecases/inl' },
+        { text: 'Blast code', link: '/usecases/lbnl' },
         { text: 'M-Star CFD Solver', link: '/usecases/mstar' },
-        { text: 'EPIC', link: '/usecases/epic' },
-        { text: 'DAIMSAL', link: '/usecases/daimsal' },
-        { text: 'NRTK & XAITK', link: '/usecases/nrtk-xaitk' },
+        { text: 'Genomic with ParaView', link: '/usecases/lanl' },
+        { text: 'InSitu Steering', link: '/usecases/anl' },
+        { text: 'AI toolkit', link: '/usecases/ai' },
       ]
     },
   }
