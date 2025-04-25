@@ -49,7 +49,7 @@ features:
     link: /schedule
     details: >
     
-      <img src="sc25-schedule.png">
+      <img src="https://kitware.github.io/sc25-trame-tutorial/assets/sc25-schedule.CZ-jGhhB.png">
 
   
   - title: Evolving Peacock into a more robust interface for MOOSE modeling and simulation
