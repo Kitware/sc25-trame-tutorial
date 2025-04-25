@@ -24,7 +24,13 @@ features:
       src: /logos/trame.png
       alt: trame
       width: 50
-    details: The core of your next Application <iframe src="https://player.vimeo.com/video/764741737?h=bd3c37ebfb&title=0&byline=0&portrait=0&muted=1&autoplay=1&loop=1&background=1" frameborder="0" allow="autoplay;" allowfullscreen muted style="width:100%" >
+    details: >
+      The core of your next Application
+    
+      <iframe src="https://player.vimeo.com/video/764741737?h=bd3c37ebfb&title=0&byline=0&portrait=0&muted=1&autoplay=1&loop=1&background=1" frameborder="0" allow="autoplay;" allowfullscreen muted style="width:100%" >
+      </iframe>
+      
+
     link: https://kitware.github.io/trame/
   - title: Python virtual environments
     icon:
