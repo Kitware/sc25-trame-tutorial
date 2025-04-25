@@ -19,6 +19,13 @@ hero:
       link: https://mybinder.org/v2/gh/Kitware/sc25-trame-tutorial/main?labpath=jupyter
 
 features:
+  - title: Trame
+    icon:
+      src: /logos/trame.png
+      alt: trame
+      width: 50
+    details: The core of your next Application <iframe src="https://player.vimeo.com/video/764741737?h=bd3c37ebfb&title=0&byline=0&portrait=0&muted=1&autoplay=1&loop=1&background=1" frameborder="0" allow="autoplay;" allowfullscreen muted style="width:100%" >
+    link: https://kitware.github.io/trame/
   - title: Python virtual environments
     icon:
       src: https://cdn.worldvectorlogo.com/logos/python-5.svg
@@ -40,7 +47,22 @@ features:
       width: 48
     details: This tutorial can be followed online by using Binder for most of the demonstrations and exercises. That track is designed to overcome system incompatibility that prevent the two previous track to be used.
     link: https://mybinder.org/v2/gh/Kitware/sc25-trame-tutorial/main?labpath=jupyter
-  - title: Building Interactive Dashboards for the Beam, Plasma & Accelerator Simulation Toolkit (BLAST) with trame
+  
+  # - title: Using ParaView for genomic visualization at scale (LANL)
+  #   icon:
+  #     src: /usecases.svg
+  #     alt: EPIC
+  #     width: 54
+  #   # details: Enabling genomic discovery via visualization at scale with ParaView and trame.
+  #   link: /usecases/epic
+  - title: Evolving Peacock into a more robust interface for MOOSE modeling and simulation
+    icon:
+      src: /usecases.svg
+      alt: Peacock
+      width: 54
+    details: MOOSE facilitates the coupling of multiple physical phenomena, essential to reactor simulation. Nuclear reactors involve several physical phenomena provided by NEAMS codes that are coupled and correlated with each other through MOOSE. We will present the trame-based evolution of Peacock and how it is enabling a more capable interface for modeling and simulation.
+    link: /usecases/peacock
+  - title: Interactive Dashboards for the Beam, Plasma & Accelerator Simulation Toolkit (BLAST) with trame
     icon:
       src: /usecases.svg
       alt: BLAST codes on HPC
@@ -61,21 +83,9 @@ features:
       width: 54
     details: AI is everywhere, but how much could we trust it? In this talk we'll go over the concerns of DoD and how Kitware is addressing some of those concerns with two Open Source projects. First we'll cover the Natural Robustness Toolkit (NRTK) and then the Explainable AI Toolkit (XAITK). Finally we'll explain how trame is helping those toolkits with its interactive data exploration approach.
     link: /usecases/nrtk-xaitk
-  # - title: Evolving Peacock into a more robust interface for MOOSE modeling and simulation (INL)
-  #   icon:
-  #     src: /usecases.svg
-  #     alt: Peacock
-  #     width: 54
-  #   # details: MOOSE facilitates the tight or loose coupling of multiple physical phenomena, essential to reactor simulation. Nuclear reactors involve several physical phenomena provided by NEAMS codes that are coupled and correlated with each other through MOOSE. We will present the trame-based evolution of Peacock and how it has transformed Peacock into a more capable interface for MOOSE modeling and simulation.
-  #   link: /usecases/peacock
   
-  # - title: Using ParaView for genomic visualization at scale (LANL)
-  #   icon:
-  #     src: /usecases.svg
-  #     alt: EPIC
-  #     width: 54
-  #   # details: Enabling genomic discovery via visualization at scale with ParaView and trame.
-  #   link: /usecases/epic
+  
+
   # - title: Data Model Storage Library for Exascale Science (ANL)
   #   icon:
   #     src: /usecases.svg
